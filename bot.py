@@ -14,8 +14,8 @@ if __name__ == "__main__" :
     plugins = dict(root="plugins")
     Client = Client("@UploaderXNTBot",
     bot_token=Config.BOT_TOKEN,
-    api_id=Config.API_ID,
-    api_hash=Config.API_HASH,
+    api_id=Config.25364269,
+    api_hash=Config.ddfbbd94cf441e22ee71bb7f4695c2f1,
     sleep_threshold=300,
     plugins=plugins)
     print("🎊 I AM ALIVE 🎊  • Support @NT_BOTS_SUPPORT")
